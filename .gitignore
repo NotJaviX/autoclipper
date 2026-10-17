@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+client_secret_*.json
+.youtube_token.json
+.venv/
+workspace/
+output/
+__pycache__/
+*.py[cod]
